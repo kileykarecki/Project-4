@@ -1,0 +1,423 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2025-01-22T21:52:33Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/247141462",
+        "air_conditioning": "no",
+        "fee": "Disneyland Park admittance required to enter Downtown Disney station",
+        "internet_access": "no",
+        "name": "Downtown Disney Monorail Station",
+        "old_name": "Disneyland Hotel Monorail Station",
+        "public_transport": "station",
+        "railway": "station",
+        "source": "http://disneyland.disney.go.com/disneyland/disneyland-monorail/",
+        "tourism": "attraction",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.924528,
+          33.8094021
+        ]
+      },
+      "id": "node/247141462"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/632049610",
+        "attraction": "amusement_ride",
+        "name": "Davy Crockett Explorer Canoes",
+        "note": "This attraction does not operate in inclement weather. (Rain)",
+        "old_name": "Indian War Canoes",
+        "sport": "canoe",
+        "tourism": "attraction",
+        "website": "https://disneyland.disney.go.com/attractions/disneyland/davy-crocketts-explorer-canoes/",
+        "wikidata": "Q3019188",
+        "wikipedia": "en:Davy Crockett Explorer Canoes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.9221258,
+          33.8125182
+        ]
+      },
+      "id": "node/632049610"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/632049619",
+        "name": "Snow White's Grotto",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.9186859,
+          33.8127787
+        ]
+      },
+      "id": "node/632049619"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/632049629",
+        "attraction": "panarama",
+        "name": "Sleeping Beauty Castle Walkthrough",
+        "tourism": "attraction",
+        "website": "https://disneyland.disney.go.com/disneyland/sleeping-beauty-castle-walkthrough/",
+        "wheelchair": "Alternative viewing experience available",
+        "wheelchair:description": "Attraction is not designed for wheelchair access, alternative viewing available"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.9191172,
+          33.8128508
+        ]
+      },
+      "id": "node/632049629"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/632049634",
+        "attraction": "dark_ride",
+        "manufacturer": "Cleveland Tram Rail Company",
+        "name": "Peter Pan's Flight",
+        "tourism": "attraction",
+        "website": "https://disneyland.disney.go.com/disneyland/peter-pans-flight/",
+        "wheelchair": "Entrance through attraction exit. Guest must transfer to attraction boat",
+        "wikidata": "Q2916451",
+        "wikipedia": "en:Peter Pan's Flight"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.9188325,
+          33.8130998
+        ]
+      },
+      "id": "node/632049634"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/632049635",
+        "attraction": "dark_ride",
+        "manufacturer": "Arrow Development",
+        "name": "Mr. Toad's Wild Ride",
+        "tourism": "attraction",
+        "website": "https://disneyland.disney.go.com/disneyland/mr-toads-wild-ride/",
+        "wheelchair": "Entrance through attraction exit. Guest must transfer to attraction car.",
+        "wikidata": "Q2777174",
+        "wikipedia": "en:Mr. Toad's Wild Ride"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.9187203,
+          33.813311
+        ]
+      },
+      "id": "node/632049635"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/632049636",
+        "attraction": "dark_ride",
+        "manufacturer": "Arrow Development",
+        "minimum_height_requirement": "none",
+        "name": "Snow White's Enchanted Wish",
+        "old_name": "Snow White's Scary Adventures",
+        "tourism": "attraction",
+        "website": "https://disneyland.disney.go.com/disneyland/snow-whites-scary-adventures/",
+        "wheelchair": "Entrance through attraction exit. Guest must transfer to attraction vehicle.",
+        "wikidata": "Q3487196",
+        "wikipedia": "en:Snow White's Enchanted Wish"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.9191033,
+          33.8130891
+        ]
+      },
+      "id": "node/632049636"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/632049642",
+        "attraction": "boat_ride",
+        "manufacturer": "WED Enterprises",
+        "name": "Storybook Land Canal Boats",
+        "old_name": "Canal Boats of the World",
+        "tourism": "attraction",
+        "website": "https://disneyland.disney.go.com/disneyland/storybook-land-canal-boats/",
+        "wikidata": "Q3499909",
+        "wikipedia": "en:Storybook Land Canal Boats"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.9182201,
+          33.8136913
+        ]
+      },
+      "id": "node/632049642"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/632049645",
+        "attraction": "boat_ride",
+        "inside_submarine_view": "https://disneyland.disney.go.com/news/finding-nemo-submarine-panorama/",
+        "manufacturer": "General Dynamics;WED Enterprises;Walt Disney Imagineering",
+        "name": "Finding Nemo Submarine Voyage",
+        "old_name": "Viewliner; Submarine Voyage",
+        "tourism": "attraction",
+        "website": "https://disneyland.disney.go.com/disneyland/finding-nemo-submarine-voyage/",
+        "wheelchair": "limited",
+        "wheelchair:description": "For those guests who experience problems with being in enclosed tight spaces or who cannot walk down a flight of stairs, there is an alternative viewing experience available.",
+        "wikidata": "Q2920234",
+        "wikipedia": "en:Finding Nemo Submarine Voyage"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.9171763,
+          33.8128307
+        ]
+      },
+      "id": "node/632049645"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1231834589",
+        "amenity": "ferry_terminal",
+        "cargo": "passengers",
+        "ferry": "yes",
+        "name": "Frontierland Landing",
+        "note": "Both Ships do not operate during performances of Fantasmic. The Columbia does not operate in inclement weather. (Rain)",
+        "operator": "Disney Parks and Resorts",
+        "public_transport": "station",
+        "tourism": "attraction",
+        "wheelchair": "limited",
+        "wikidata": "Q3461623",
+        "wikipedia": "en:Sailing Ship Columbia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.920578,
+          33.8122417
+        ]
+      },
+      "id": "node/1231834589"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1231987282",
+        "addr:housenumber": "217",
+        "addr:street": "Main Street",
+        "amenity": "cinema",
+        "designation": "http://disneyland.disney.go.com/disneyland/main-street-cinema/",
+        "name": "Main Street Cinema House",
+        "tourism": "attraction",
+        "wikidata": "Q3278282",
+        "wikipedia": "en:Main Street Cinema"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.9188509,
+          33.8107105
+        ]
+      },
+      "id": "node/1231987282"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1232033966",
+        "attraction": "train",
+        "manufacturer": "Arrow Development",
+        "minimum_height_requirement": "none",
+        "name": "Casey Jr. Circus Train",
+        "tourism": "attraction",
+        "website": "https://disneyland.disney.go.com/attractions/disneyland/casey-jr-circus-train/",
+        "wheelchair:description": "Entrance through attraction’s exit ramp. Guest must transfer on/in-to train car bench.",
+        "wikidata": "Q2521960",
+        "wikipedia": "en:Casey Jr. Circus Train"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.9192371,
+          33.8137225
+        ]
+      },
+      "id": "node/1232033966"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1256492372",
+        "name": "Shooting Exposition",
+        "old_name": "Frontierland Shooting Gallery; Frontierland Shootin’ Arcade",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.9198049,
+          33.8122791
+        ]
+      },
+      "id": "node/1256492372"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1424937325",
+        "attraction": "meet_and_greet",
+        "minimum_height_requirement": "none",
+        "name": "Pixie Hollow",
+        "old_name": "House of the Future;King Triton Gardens",
+        "tourism": "attraction",
+        "website": "https://disneyland.disney.go.com/entertainment/disneyland/pixie-hollow-tinkerbell-fairy-friends/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.918284,
+          33.812503
+        ]
+      },
+      "id": "node/1424937325"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1428605069",
+        "addr:housename": "105 A",
+        "addr:street": "Main Street",
+        "name": "Disneyland Fire Department",
+        "tourism": "attraction",
+        "wikidata": "Q68531620"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.9193949,
+          33.8104444
+        ]
+      },
+      "id": "node/1428605069"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1430268903",
+        "attraction": "dark_ride",
+        "manufacturer": "Walt Disney Imagineering",
+        "minimum_height_requirement": "none",
+        "name": "Pinocchio's Daring Journey",
+        "old_name": "Mickey Mouse Club Theater; Fantasyland Theater",
+        "tourism": "attraction",
+        "website": "https://disneyland.disney.go.com/disneyland/pinocchios-daring-journey/",
+        "wheelchair": "Entrance through attraction exit. Guest must transfer to attraction vehicle.",
+        "wikidata": "Q3066622"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.9191864,
+          33.8133523
+        ]
+      },
+      "id": "node/1430268903"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1444178750",
+        "attraction": "dark_ride",
+        "manufacturer": "Arrow Development",
+        "minimum_height_requirement": "none",
+        "name": "Alice in Wonderland",
+        "note": "This attraction does not operate in inclement weather. (Rain)",
+        "tourism": "attraction",
+        "website": "https://disneyland.disney.go.com/disneyland/alice-in-wonderland/",
+        "wikidata": "Q2836727",
+        "wikipedia": "en:Alice in Wonderland (Disneyland attraction)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.918366,
+          33.8131608
+        ]
+      },
+      "id": "node/1444178750"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1446696511",
+        "name": "Town Square",
+        "public_transport": "stop_position",
+        "railway": "tram_stop",
+        "tourism": "attraction",
+        "tram": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.918957,
+          33.8102024
+        ]
+      },
+      "id": "node/1446696511"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2118852163",
+        "alt_name": "Disneyland Monorail",
+        "attraction": "train",
+        "historic": "monument",
+        "layer": "1",
+        "name": "Tomorrowland Monorail Station",
+        "note": "The final departing monorail leaves at exactly park closing. Please be at station before closing to board final monorail for a one-way trip to Downtown Disney Station.",
+        "note:historic": "First Daily operating monorail-type rail system to open in the entire Western Hemisphere",
+        "public_transport": "station",
+        "railway": "station",
+        "tourism": "attraction",
+        "website": "https://disneyland.disney.go.com/attractions/disneyland/disneyland-monorail/",
+        "wikidata": "Q3030502"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.916671,
+          33.812807
+        ]
+      },
+      "id": "node/2118852163"
+    }
+  ]
+}
