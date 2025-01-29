@@ -74,6 +74,9 @@ website with no luck, and also made several calls to the Queue Times API. This A
 Throughout this project, we referred to the class lecture notes and slides, activities, and challenges to help develop our code. Please see specific articles and other sources here for each individual model. 
 
 #### Wait Time Prediction Model: 
+- Youtube videos by compsci112358, Greg Kamradt, and Data Professor
+- ChatGPT (Code cited in Notebooks where used)
+- Xpert Learning Assistant (Code cited in Notebooks where used)
 
 #### High/Low Traffic Prediction Model: 
 

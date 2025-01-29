@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 date,tavg_f,tmin_f,tmax_f,Location
 2018-01-01,56.120000000000005,46.04,69.98,Anaheim
 2018-01-02,60.8,51.08,78.98,Anaheim
@@ -8757,3 +8758,8 @@ date,tavg_f,tmin_f,tmax_f,Location
 2023-12-29,68.72,64.4,73.4,Hong Kong
 2023-12-30,69.44,64.4,75.2,Hong Kong
 2023-12-31,70.88,65.84,75.56,Hong Kong
+=======
+version https://git-lfs.github.com/spec/v1
+oid sha256:fbdaa810a2729178d1460daa9c6d2cd86104181cf67f711c7a5fcbf9a60445b7
+size 355473
+>>>>>>> 090d23c453354a8f11bbcb18c04cf681cba542df
