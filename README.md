@@ -32,6 +32,7 @@ This project focuses on Disneyland and Disney California Adventure in Anaheim, C
     - Build Regression Model to predict wait times at given rides
 - Morgan Bee
     - Build Regression Model for predicting weather at various parks
+    - HTML/CSS Implementation for final Dashboard
 
 ### Project Timeline: 
 - 1/22/25: Datasets to be used finalized and downloaded appropriately
