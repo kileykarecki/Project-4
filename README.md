@@ -10,7 +10,6 @@ This project focuses on Disneyland and Disney California Adventure in Anaheim, C
 
 ### Using this Project:
 - Use our interactive Leaflet map to input your desired date and time for either Disneyland or Disney California Adventure. View the desired park map with its respective high/low traffic areas, predicted wait times for the rides, and the predicted weather for the day. 
-- You can access the map in the repo above or directly using this link: [ENTER LINK HERE]
 - You can view the final dashboard in the repo above or directly using this link: [ENTER LINK HERE]
 
 ### Team Members: 
@@ -96,5 +95,10 @@ AI programs like OpenAI's Chat GPT and Xpert Learning Assistant were used throug
 - photo from: https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F806144402042297415%2F&psig=AOvVaw2jYAxbUHU_wUkjiXaWeJV2&ust=1738279904227000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMDK9rOLnIsDFQAAAAAdAAAAABAE 
 - Edited with Canva (Pro version)
 - Xpert Learning Assistant and OpenAI's Chat GPT used throughout. Cited specifically within code. 
+
+#### Presentation/Slide Deck
+
+- Presentation theme adapted from SlideNest using a commercial account and imported into Gamma.app for use
+- Source: https://slidenest.com/template/carnival-games-theme-presentation
 
 ####
