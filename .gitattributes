@@ -4,3 +4,4 @@ Wait[[:space:]]time[[:space:]]regression[[:space:]]model.psd filter=lfs diff=lfs
 *.txt filter=lfs diff=lfs merge=lfs -text
 *.ipynb filter=lfs diff=lfs merge=lfs -text
 Weather/weather_regressor.joblib filter=lfs diff=lfs merge=lfs -text
+*.job filter=lfs diff=lfs merge=lfs -text
