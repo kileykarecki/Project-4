@@ -96,4 +96,9 @@ AI programs like OpenAI's Chat GPT and Xpert Learning Assistant were used throug
 - Edited with Canva (Pro version)
 - Xpert Learning Assistant and OpenAI's Chat GPT used throughout. Cited specifically within code. 
 
+#### Presentation/Slide Deck
+
+- Presentation theme adapted from SlideNest using a commercial account and imported into Gamma.app for use
+- Source: https://slidenest.com/template/carnival-games-theme-presentation
+
 ####
