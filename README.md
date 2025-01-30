@@ -18,8 +18,8 @@ This project focuses on Disneyland and Disney California Adventure in Anaheim, C
     - Collect and clean historical weather data
     - Heatmap visualizations for peak wait times at each park
 - Israel Flores
-    - Source theme park data for predictive models
     - Scrape websites for data, make calls to API to create datasets
+    - Build Classification Model to show high and low traffic areas
 - Jenny Liu
     - Collect coordinates data for rides at each park
     - Create Leaflet map for final visualization and presentation
@@ -73,6 +73,8 @@ website with no luck, and also made several calls to the Queue Times API. This A
 ### Code sources and other helpful information used for this project: 
 Throughout this project, we referred to the class lecture notes and slides, activities, and challenges to help develop our code. Please see specific articles and other sources here for each individual model. 
 
+AI programs like OpenAI's Chat GPT and Xpert Learning Assistant were used throughout this project. Specific citations are provided throughout the project where necessary. 
+
 #### Wait Time Prediction Model: 
 - Youtube videos by compsci112358, Greg Kamradt, and Data Professor
 - ChatGPT (Code cited in Notebooks where used)
@@ -88,3 +90,10 @@ Throughout this project, we referred to the class lecture notes and slides, acti
 - https://medium.com/@shuv.sdr/polynomial-regression-in-python-58198fb0973f
 - https://scikit-learn.org/dev/modules/generated/sklearn.preprocessing.PolynomialFeatures.html
 - Xpert Learning Assistant (Code cited in Notebooks where used)
+
+#### Dashboard
+- photo from: https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F806144402042297415%2F&psig=AOvVaw2jYAxbUHU_wUkjiXaWeJV2&ust=1738279904227000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMDK9rOLnIsDFQAAAAAdAAAAABAE 
+- Edited with Canva (Pro version)
+- Xpert Learning Assistant and OpenAI's Chat GPT used throughout. Cited specifically within code. 
+
+####
