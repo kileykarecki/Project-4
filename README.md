@@ -10,7 +10,6 @@ This project focuses on Disneyland and Disney California Adventure in Anaheim, C
 
 ### Using this Project:
 - Use our interactive Leaflet map to input your desired date and time for either Disneyland or Disney California Adventure. View the desired park map with its respective high/low traffic areas, predicted wait times for the rides, and the predicted weather for the day. 
-- You can access the map in the repo above or directly using this link: [ENTER LINK HERE]
 - You can view the final dashboard in the repo above or directly using this link: [ENTER LINK HERE]
 
 ### Team Members: 
