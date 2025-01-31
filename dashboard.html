@@ -55,13 +55,17 @@
 
         <p> </p>
         <p> </p>
-        <h2>Predicting High and Low Traffic at Disneyland and Disney California Adventure</h2>
+        <h2>Predicting High, Moderate, and Low Traffic at Disney California Adventure</h2>
         <p>While you may know that a particular day (Saturday, for example) may be the busiest overall day at these parks, it is still important to figure out 
           which areas of the park are going to be more or less crowded. This Random Forest Classifier Model splits rides into Low (Less than 15 minutes wait), Moderate (15-45 minutes wait), or High Traffic Areas (more than 45 mintues wait).
-          This model has an accuracy of .71, which is relatively strong. Limitations for this model were the amount of time we had to build each model, and access to the right data to train the model. If you are curious about how this model was made, please refer to our GitHub repo, which is linked at the 
+          This model has an accuracy of .72, which is relatively strong. Here, you can see our decision tree and how the model is able to predict high, moderate, and low
+          wait times depending on the different features within the data. We also display our confusion matrix which demonstrates how well our model is at predicting
+          wait time classifications. Limitations for the predictive power of this model were the amount of time we had to build the model, and access to the right data to train the model.
+          If you are curious about how this model was made, please refer to our GitHub repo, which is linked at the 
           bottom of this webpage.  
         </p>
-        <iframe src="Weather/weather-model.html" width="850" height="600"></iframe>
+        <img src="images/disney_ca_adv-random_forest_tree.png" width="625" height="500"></img>
+        <iframe src="images/cm_actual_vs_predicted_map.html" width="625" height="500"></iframe>
 
         <p> </p>
         <p> </p>
