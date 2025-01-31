@@ -91,6 +91,15 @@ AI programs like OpenAI's Chat GPT and Xpert Learning Assistant were used throug
 - https://scikit-learn.org/dev/modules/generated/sklearn.preprocessing.PolynomialFeatures.html
 - Xpert Learning Assistant (Code cited in Notebooks where used)
 
+#### Classification Decision Trees
+The classification decision trees for Disneyland and Disney California Adventure were developed using insights from:
+- ChatGTP (OpenAI)
+- Xpert Learning Assistant
+- Classwork from the UC Berkley Data Analytics Bootcamp
+These resources contributed to
+- Model Selection and Development
+- Implementation and Evaluation Techniques
+
 #### Dashboard
 - photo from: https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F806144402042297415%2F&psig=AOvVaw2jYAxbUHU_wUkjiXaWeJV2&ust=1738279904227000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMDK9rOLnIsDFQAAAAAdAAAAABAE 
 - Edited with Canva (Pro version)
